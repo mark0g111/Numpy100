@@ -7,3 +7,4 @@ shape = [m, k]
 Z = np.array([i for i in range(n)])
 Z = np.reshape(Z, shape)
 print(Z)
+
